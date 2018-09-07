@@ -1,0 +1,58 @@
+baseurl = "https://orange-cen.github.io/"	#一定要用https，github强制安全措施
+title = "Dalnim`s work" #博客标题
+theme = "hugo-nederburg-theme"
+languageCode = "en-us"	#语言
+disqusShortname = ""	#评论时显示的名字
+googleAnalytics = ""	#谷歌
+preserveTaxonomyNames = true
+paginate = 5	#分页每页记录数
+
+[params]
+  description = "Describe your website"	#加段提升逼格的副标题
+  author = "草明八子" #文章作者
+  #authorlocation = "ChengDu, China" #作者位置
+  #authorwebsite = "https://brent-li.github.io/" #作者站点
+  slogan = "DESIGNS &amp; PHOTOS"
+  
+  
+  # 页脚
+  copyright = [
+    "&copy; 2018 草明八子"
+  ]
+
+  # Contact page
+  email = "bai_yucen@163.com"
+
+  # #页面菜单
+  [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "About"
+  url = "about/"
+  weight = 2
+
+  [[menu.main]]
+  name = "Get in touch"
+  url = "contact/"
+  weight = 3
+
+  [params.social]
+  email         = "bai_yucen@163.com"
+  twitter       = "https://orange-cen.github.io/"
+  linkedin      = "https://orange-cen.github.io/"
+
+#
+  [params.writers]
+    [params.writers."草明八子"]
+    link = "https://orange-cen.github.io/"
+    email = "bai_yucen@163.com"
+    bio = [
+      "无法无天"
+    ]
+    twitter       = "https://orange-cen.github.io/"
+    linkedin      = "https://orange-cen.github.io/"
+
+
