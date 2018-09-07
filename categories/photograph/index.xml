@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photograph on Dalnim` swork</title>
+    <link>https://orange-cen.github.io/categories/photograph/</link>
+    <description>Recent content in Photograph on Dalnim` swork</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Sep 2018 15:44:52 +0800</lastBuildDate>
+    
+	<atom:link href="https://orange-cen.github.io/categories/photograph/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>这是一次正儿八经的测试</title>
+      <link>https://orange-cen.github.io/post/view/</link>
+      <pubDate>Fri, 07 Sep 2018 15:44:52 +0800</pubDate>
+      
+      <guid>https://orange-cen.github.io/post/view/</guid>
+      <description> Something for nothing 哈哈哈哈哈 哈哈哈哈哈 哈哈哈哈哈 哈哈哈哈哈 哈哈哈哈哈 </description>
+    </item>
+    
+  </channel>
+</rss>
