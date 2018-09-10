@@ -40,7 +40,7 @@ paginate = 5	#分页每页记录数
   weight = 3
 
   [params.social]
-  email         = "bai_yucen@163.com"
+  email         = "18681275136@163.com"
   twitter       = "https://orange-cen.github.io/"
   linkedin      = "https://orange-cen.github.io/"
 
@@ -48,7 +48,7 @@ paginate = 5	#分页每页记录数
   [params.writers]
     [params.writers."草明八子"]
     link = "https://orange-cen.github.io/"
-    email = "bai_yucen@163.com"
+    email = "18681275136@163.com"
     bio = [
       "无法无天"
     ]
