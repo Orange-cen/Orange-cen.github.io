@@ -6,55 +6,19 @@
     <description>Recent content on Dalnim`s work</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Sep 2018 16:00:39 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 06 Nov 2018 14:09:07 +0800</lastBuildDate>
     
 	<atom:link href="https://orange-cen.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>测试github和coding同步更新</title>
-      <link>https://orange-cen.github.io/post/auto/</link>
-      <pubDate>Thu, 13 Sep 2018 16:00:39 +0800</pubDate>
+      <title>随笔</title>
+      <link>https://orange-cen.github.io/post/2018-11-6/</link>
+      <pubDate>Tue, 06 Nov 2018 14:09:07 +0800</pubDate>
       
-      <guid>https://orange-cen.github.io/post/auto/</guid>
-      <description> 测试github和coding同步更新 </description>
-    </item>
-    
-    <item>
-      <title>测试SourceTree提交代码</title>
-      <link>https://orange-cen.github.io/post/test/</link>
-      <pubDate>Mon, 10 Sep 2018 14:21:02 +0800</pubDate>
-      
-      <guid>https://orange-cen.github.io/post/test/</guid>
-      <description> 测试能否自动化构建页面 </description>
-    </item>
-    
-    <item>
-      <title>这是一次正儿八经的测试</title>
-      <link>https://orange-cen.github.io/post/view/</link>
-      <pubDate>Fri, 07 Sep 2018 15:44:52 +0800</pubDate>
-      
-      <guid>https://orange-cen.github.io/post/view/</guid>
-      <description> Something for nothing 哈哈哈哈哈 哈哈哈哈哈 哈哈哈哈哈 哈哈哈哈哈 哈哈哈哈哈 </description>
-    </item>
-    
-    <item>
-      <title>测试权重</title>
-      <link>https://orange-cen.github.io/post/work13/</link>
-      <pubDate>Fri, 07 Sep 2018 14:06:21 +0800</pubDate>
-      
-      <guid>https://orange-cen.github.io/post/work13/</guid>
-      <description>我们都是小怪兽，有一天会被正义的奥特曼杀死。 是啊，你是小怪兽，可小怪兽也有小怪兽的好朋友，孤独的小怪兽们害怕得靠在一起，但如果正义的奥特曼要来杀你，我就帮你把正义的奥特曼杀死。 可是我答应了，却没有做到。
-如果没有这个标题，格式将会混乱 We are all l ittle monster &amp;ldquo;s, one day will be just Ultraman kill. Yeah, you little monster, but little monsters have little monster&amp;rsquo;s good friend, afraid of being lonely little monsters get together, but if justice Ultrama</description>
-    </item>
-    
-    <item>
-      <title>这是一个测试页面</title>
-      <link>https://orange-cen.github.io/post/work12/</link>
-      <pubDate>Fri, 07 Sep 2018 11:34:15 +0800</pubDate>
-      
-      <guid>https://orange-cen.github.io/post/work12/</guid>
-      <description></description>
+      <guid>https://orange-cen.github.io/post/2018-11-6/</guid>
+      <description> 网站才刚刚建好，实在不知道改写些什么 就放几张手幅吧 不然整个网页一片空白
+视觉效果贼差呀!!!  &amp;gt;我就是想空一行 &amp;gt;再空一行 &amp;gt;&amp;gt;想多空一行 </description>
     </item>
     
     <item>
@@ -63,7 +27,7 @@
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
       
       <guid>https://orange-cen.github.io/about/</guid>
-      <description> 无法无天 </description>
+      <description> 杰克萌一点都不暴躁 </description>
     </item>
     
   </channel>
