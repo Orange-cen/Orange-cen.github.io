@@ -2,8 +2,8 @@ baseurl = "https://orange-cen.github.io/"	#一定要用https，github强制安�
 title = "Dalnim`s work" #博客标题
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"	#语言
-disqusShortname = ""	#评论时显示的名字
-googleAnalytics = ""	#谷歌
+#disqusShortname = ""	#评论时显示的名字
+#googleAnalytics = ""	#谷歌
 preserveTaxonomyNames = true
 paginate = 5	#分页每页记录数
 
@@ -11,7 +11,6 @@ paginate = 5	#分页每页记录数
   description = "Describe your website"	#加段提升逼格的副标题
   author = "草明八子" #文章作者
   #authorlocation = "ChengDu, China" #作者位置
-  #authorwebsite = "https://brent-li.github.io/" #作者站点
   slogan = "DESIGNS &amp; PHOTOS"
   
   
@@ -40,19 +39,19 @@ paginate = 5	#分页每页记录数
   weight = 3
 
   [params.social]
-  email         = "18681275136@163.com"
+  email         = "dorarame0118@gmail.com"
   twitter       = "https://orange-cen.github.io/"
-  linkedin      = "https://orange-cen.github.io/"
+  instagram      = "https://orange-cen.github.io/"
 
 #
   [params.writers]
     [params.writers."草明八子"]
     link = "https://orange-cen.github.io/"
-    email = "18681275136@163.com"
+    email = "dorarame0118@gmail.com"
     bio = [
-      "无法无天"
+      "杰克萌一点都不暴躁"
     ]
     twitter       = "https://orange-cen.github.io/"
-    linkedin      = "https://orange-cen.github.io/"
+    instagram      = "https://orange-cen.github.io/"
 
 
