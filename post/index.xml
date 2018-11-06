@@ -6,19 +6,27 @@
     <description>Recent content in Posts on Dalnim`s work</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Nov 2018 14:09:07 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 06 Nov 2018 16:59:34 +0800</lastBuildDate>
     
 	<atom:link href="https://orange-cen.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>随笔</title>
+      <title>封面</title>
+      <link>https://orange-cen.github.io/post/2018-11-6-cover/</link>
+      <pubDate>Tue, 06 Nov 2018 16:59:34 +0800</pubDate>
+      
+      <guid>https://orange-cen.github.io/post/2018-11-6-cover/</guid>
+      <description> 封面来两张 </description>
+    </item>
+    
+    <item>
+      <title>手幅</title>
       <link>https://orange-cen.github.io/post/2018-11-6/</link>
       <pubDate>Tue, 06 Nov 2018 14:09:07 +0800</pubDate>
       
       <guid>https://orange-cen.github.io/post/2018-11-6/</guid>
-      <description> 网站才刚刚建好，实在不知道改写些什么 就放几张手幅吧 不然整个网页一片空白
-视觉效果贼差呀!!!  随便分割一下 </description>
+      <description> 网站才刚刚建好，实在不知道改写些什么 就放几张手幅吧 不然整个网页一片空白 视觉效果贼差呀!!! </description>
     </item>
     
   </channel>
